@@ -1,5 +1,6 @@
-<img src="https://github.com/mstftmk/K132-Data-Science-Bootcamp/img/kodluyoruz.png" align="center" width="150" height="90"/>
-<img src="https://github.com/mstftmk/K132-Data-Science-Bootcamp/img/carbon.png" align="center" width="150" height="90"/>
+<img src="https://github.com/mstftmk/K132-Data-Science-Bootcamp/blob/main/img/kodluyoruz.png" align="center" width="150" height="90"/>
+<img src="https://github.com/mstftmk/K132-Data-Science-Bootcamp/blob/main/img/carbon.png" align="center" width="150" height="90"/>
+
 
 # Kodluyoruz & Carbon Consulting Data Science Bootcamp
 

@@ -5,10 +5,12 @@ Kodluyoruz - Carbon Veri Bilimi Bootcamp'i 7. final projesi için, CNN ile duygu
 
 ## Results
 
-> Happy Face
+> Happy Face:
+
 ![Example1](https://github.com/mstftmk/K132-Data-Science-Bootcamp/blob/main/Final%20Project/Data/images/Example1.png?raw=true)
 
-> Sad Face
+> Sad Face:
+
 ![Example1](https://github.com/mstftmk/K132-Data-Science-Bootcamp/blob/main/Final%20Project/Data/images/Example2.png?raw=true)
 
 ## Requirements

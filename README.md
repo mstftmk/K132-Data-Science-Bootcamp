@@ -63,6 +63,10 @@ import Sklearn
 import statsmodel
 import BeautifulSoup
 import request
+import cv2
+import numpy as np
+from math import ceil
+from scipy.misc import face
 ```
 
 ## Contributing

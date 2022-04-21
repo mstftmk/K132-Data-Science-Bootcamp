@@ -1,7 +1,7 @@
 # Final Project
 Kodluyoruz - Carbon Veri Bilimi Bootcamp'i 7. final projesi için, CNN ile duygu tahmini gerçekleştirdim.
 
-> Öncelikle [Kaggle](https://www.kaggle.com/datasets/deadskull7/fer2013) üzerinden veriyi indirip, Data klasörü içine aktarın.
+> Öncelikle Data klasörü içindeki zip dosyasında bulunan veriyi çıkartın. Ya da [Kaggle](https://www.kaggle.com/datasets/deadskull7/fer2013) üzerinden veriyi indirip, Data klasörü içine aktarın.
 
 ## Results
 
